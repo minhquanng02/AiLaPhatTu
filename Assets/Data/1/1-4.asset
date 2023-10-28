@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e1efd80ba962594183daf3532f90b57, type: 3}
+  m_Name: 1-4
+  m_EditorClassIdentifier: 
+  question: "N\u0103m gi\u1EDBi cho ng\u01B0\u1EDDi Ph\u1EADt t\u1EED t\u1EA1i gia
+    l\xE0?"
+  answerA: "Kh\xF4ng \u0103n sau 12h tr\u01B0a , Kh\xF4ng trang \u0111i\u1EC3m, Kh\xF4ng
+    \u0111\u01B0\u1EE3c y\xEAu, Kh\xF4ng n\xF3i d\u1ED1i , Kh\xF4ng ch\u01A1i game "
+  answerB: "Kh\xF4ng s\xE1t sinh , Kh\xF4ng tr\u1ED9m c\u1EAFp ,Kh\xF4ng t\xE0 d\xE2m
+    , kh\xF4ng n\xF3i d\u1ED1i, kh\xF4ng u\u1ED1ng r\u01B0\u1EE3u v\xE0 c\xE1c ch\u1EA5t
+    g\xE2y say "
+  answerC: "Kh\xF4ng s\xE1t sinh, kh\xF4ng tr\u1ED9m c\u1EAFp, kh\xF4ng h\xE0nh d\xE2m,
+    kh\xF4ng n\xF3i d\u1ED1i,kh\xF4ng u\u1ED1ng r\u01B0\u1EE3u v\xE0 c\xE1c ch\u1EA5t
+    g\xE2y say"
+  answerD: "C\u1EA3 B&C"
+  answer: 1

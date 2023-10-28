@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e1efd80ba962594183daf3532f90b57, type: 3}
+  m_Name: 2-3
+  m_EditorClassIdentifier: 
+  question: "Trong 4 ph\xE1p s\xE1m h\u1ED1i ch\xE2n ch\xEDnh v\u1EEBa k\u1EC3, ph\xE1p
+    n\xE0o d\u1EC5 th\u1EF1c hi\u1EC7n nh\u1EA5t \u0111\u1ED1i v\u1EDBi ng\u01B0\u1EDDi
+    Ph\u1EADt t\u1EED t\u1EA1i gia?"
+  answerA: "C\u1EA3 4 ph\xE1p \u0111\u1EC1u d\u1EC5 th\u1EF1c hi\u1EC7n"
+  answerB: "H\u1ED3ng danh s\xE1m h\u1ED1i"
+  answerC: "V\xF4 sinh s\xE1m h\u1ED1i "
+  answerD: "T\xE1c ph\xE1p s\xE1m h\u1ED1i"
+  answer: 1

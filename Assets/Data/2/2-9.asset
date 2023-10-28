@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e1efd80ba962594183daf3532f90b57, type: 3}
+  m_Name: 2-9
+  m_EditorClassIdentifier: 
+  question: "Em B\xE9 l\xE0 m\u1ED9t Ph\u1EADt t\u1EED thu\u1EADn th\xE0nh,r\u1EA5t
+    ch\u0103m h\u1ECDc gi\xE1o l\xFD, khi \u0111\u1EBFn ch\xF9a em l\u1EC5 Ph\u1EADt
+    m\u1ED9t c\xE1ch cung k\xEDnh, n\u0103m v\xF3c (\u0111\u1EA7u, hai tay, hai g\u1ED1i)
+    s\xE1t \u0111\u1EA5t trang nghi\xEAm,m\u1ED7i c\xE1i l\u1EA1y em c\u1EA3m nh\u1EADn
+    \u0111\u01B0\u1EE3c s\u1EF1 thi\xEAng li\xEAng v\xE0 t\xF4n k\xEDnh. L\u1EC5
+    Ph\u1EADt nh\u01B0 th\u1EBF trong kinh g\u1ECDi l\xE0?"
+  answerA: "Ng\xE3 m\u1EA1n l\u1EC5"
+  answerB: "C\u1EA7u t\xE0i l\u1EC5 "
+  answerC: "C\u1EA7u danh l\u1EC5 "
+  answerD: "Th\xE2n t\xE2m cung k\xEDnh l\u1EC5"
+  answer: 3
