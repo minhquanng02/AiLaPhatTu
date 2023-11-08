@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e1efd80ba962594183daf3532f90b57, type: 3}
+  m_Name: 4-9
+  m_EditorClassIdentifier: 
+  question: "B\u1ED5n ph\u1EADn c\u1EE7a Ph\u1EADt t\u1EED v\u1EDBi x\xE3 h\u1ED9i? "
+  answerA: "L\xE0m tr\xF2n ngh\u0129a v\u1EE5 c\xF4ng d\xE2n, tu\xE2n th\u1EE7 lu\u1EADt
+    ph\xE1p. "
+  answerB: "Tham gia c\xE1c phong tr\xE0o x\xE3 h\u1ED9i,gi\xFAp \u0111\u1EE1 ng\u01B0\u1EDDi
+    kh\xE1c."
+  answerC: "S\u1ED1ng g\u01B0\u01A1ng m\u1EABu \u0111\u1EC3 m\u1ECDi ng\u01B0\u1EDDi
+    c\xF3 thi\u1EC7n c\u1EA3m v\u1EDBi \u0111\u1EA1o Ph\u1EADt. "
+  answerD: "T\u1EA5t c\u1EA3 \xFD tr\xEAn "
+  answer: 3

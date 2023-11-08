@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e1efd80ba962594183daf3532f90b57, type: 3}
+  m_Name: 3-10
+  m_EditorClassIdentifier: 
+  question: "Em B\xE9 l\u01B0\u1EDBt Tiktok th\u1EA5y video nh\xE0 s\u01B0 ng\u1ED3i
+    \u0103n c\u01A1m c\xFAng d\u01B0\u1EDDng trong b\xECnh b\xE1t c\xF3 th\u1ECBt,\u1EDF
+    ph\u1EA7n b\xECnh lu\u1EADn c\xF3 nhi\u1EC1u ch\u1EC9 tr\xEDch:  \u201Cth\u1EDDi
+    m\u1EA1t ph\xE1p\u201D , \u201C th\u1EA7y tu m\xE0 \u0103n th\u1ECBt\u201D \u201Ch\xEAn
+    qu\xE1,tui tu t\xE2m ch\u1EE9 kh\xF4ng tin \xF4ng s\u01B0 n\xE0o\u201D \u2026
+    Em B\xE9 nhanh tay b\xECnh lu\u1EADn ch\u1EC9 tr\xEDch h\xF9a theo. H\u1ECFi
+    : H\xE0nh \u0111\u1ED9ng c\u1EE7a em b\xE9 l\xE0 n\xEAn l\xE0m hay kh\xF4ng n\xEAn
+    l\xE0m?"
+  answerA: "N\xEAn l\xE0m, th\u1EDDi m\u1EA1t ph\xE1p r\u1ED3i m\xECnh ph\u1EA3i
+    l\xEAn \xE1n"
+  answerB: "N\xEAn l\xE0m, thay tr\u1EDDi h\xE0nh \u0111\u1EA1o"
+  answerC: "C\u1EA3 A & B "
+  answerD: "Ho\xE0n to\xE0n kh\xF4ng n\xEAn"
+  answer: 3

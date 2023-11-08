@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e1efd80ba962594183daf3532f90b57, type: 3}
+  m_Name: 4-3
+  m_EditorClassIdentifier: 
+  question: "B\u1ED5n ph\u1EADn c\u1EE7a cha m\u1EB9 \u0111\u1ED1i v\u1EDBi con c\xE1i
+    theo kinh Thi\u1EC7n Sanh l\xE0 g\xEC?"
+  answerA: "B\u1EAFt bu\u1ED9c con gi\u1ECFi h\u01A1n nh\u1EEFng \u0111\u1EE9a tr\u1EBB
+    \u0111\u1ED3ng trang l\u1EE9a."
+  answerB: "D\u1EA1y con si\xEAng n\u0103ng h\u1ECDc t\u1EADp v\xE0 th\xE2n c\u1EADn
+    ng\u01B0\u1EDDi tr\xED."
+  answerC: "Lu\xF4n chu c\u1EA5p cho con b\u1EA5t c\u1EE9 g\xEC m\xE0 con mu\u1ED1n."
+  answerD: "Kh\xF4ng cho con l\xE0m vi\u1EC7c nh\xE0 \u0111\u1EC3 c\xF3 th\u1EDDi
+    gian h\u1ECDc h\xE0nh."
+  answer: 1

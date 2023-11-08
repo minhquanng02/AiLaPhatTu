@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e1efd80ba962594183daf3532f90b57, type: 3}
+  m_Name: 4-5
+  m_EditorClassIdentifier: 
+  question: "B\u1ED5n ph\u1EADn c\u1EE7a ch\u1ED3ng \u0111\u1ED1i v\u1EDBi v\u1EE3
+    trong kinh Thi\u1EC7n Sanh l\xE0 g\xEC?"
+  answerA: "Ch\u1EC9 lo ki\u1EBFm ti\u1EC1n nu\xF4i s\u1ED1ng gia \u0111\xECnh. "
+  answerB: "Giao t\u1EA5t c\u1EA3 vi\u1EC7c n\u1ED9i tr\u1EE3 cho v\u1EE3 qu\xE1n
+    xuy\u1EBFn. "
+  answerC: "Y\xEAu th\u01B0\u01A1ng, l\u1EAFng nghe, chia s\u1EBB, quan t\xE2m gia
+    \u0111\xECnh v\xE0 th\u1EE7y chung v\u1EDBi v\u1EE3."
+  answerD: "Gia tr\u01B0\u1EDFng, b\u1EAFt v\u1EE3 con ph\u1EA3i theo \xFD m\xECnh. "
+  answer: 2

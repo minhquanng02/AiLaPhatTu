@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e1efd80ba962594183daf3532f90b57, type: 3}
+  m_Name: 3-1
+  m_EditorClassIdentifier: 
+  question: "Ai c\u0169ng bi\u1EBFt \u0103n chay l\xE0 \u0103n th\u1EA3o m\u1ED9c,hoa
+    qu\u1EA3\u2026 kh\xF4ng \u0103n nh\u1EEFng m\xF3n \u0103n thu\u1ED9c \u0111\u1ED9ng
+    v\u1EADt.V\u1EADy ch\u1EEF chay trong \u0103n chay c\xF3 ngh\u0129a l\xE0 g\xEC
+    anh/ch\u1ECB c\xF3 bi\u1EBFt h\xF4ng?"
+  answerA: "Th\u1EF1c v\u1EADt"
+  answerB: "Thanh t\u1ECBnh"
+  answerC: "Kh\xF4ng s\xE1t sanh"
+  answerD: "T\u1EEB bi"
+  answer: 1

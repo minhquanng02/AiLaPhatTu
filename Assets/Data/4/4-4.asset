@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e1efd80ba962594183daf3532f90b57, type: 3}
+  m_Name: 4-4
+  m_EditorClassIdentifier: 
+  question: "B\u1ED5n ph\u1EADn c\u1EE7a v\u1EE3 \u0111\u1ED1i v\u1EDBi ch\u1ED3ng
+    theo kinh Thi\u1EC7n Sanh l\xE0 g\xEC? "
+  answerA: "K\xEDnh y\xEAu, h\xF2a thu\u1EADn, chia s\u1EBB c\xF4ng vi\u1EC7c v\u1EDBi
+    ch\u1ED3ng."
+  answerB: "Qu\xE1n xuy\u1EBFn c\xF4ng vi\u1EC7c nh\xE0."
+  answerC: "Gi\u1EEF g\xECn ti\u1EBFt h\u1EA1nh. "
+  answerD: "\u0110\xE1p \xE1n a, b, v\xE0 c. "
+  answer: 3

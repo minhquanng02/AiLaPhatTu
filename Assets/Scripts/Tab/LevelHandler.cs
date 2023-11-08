@@ -15,6 +15,7 @@ public class LevelHandler : MonoBehaviour
     public TabGroup tabGroup;
 
     public GameObject losePanel;
+    public GameObject audio;
 
     public GameObject heart1;
     public GameObject heart2;
@@ -79,6 +80,7 @@ public class LevelHandler : MonoBehaviour
                 break;
             case 0:
                 heart1.SetActive(false);
+                audio.SetActive(false);
                 losePanel.SetActive(true);
                 break;
         }

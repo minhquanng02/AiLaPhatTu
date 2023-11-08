@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e1efd80ba962594183daf3532f90b57, type: 3}
+  m_Name: 3-3
+  m_EditorClassIdentifier: 
+  question: "L\xE0 Ph\u1EADt t\u1EED t\u1EA1i gia ch\xFAng ta c\xF3 th\u1EC3 dung
+    th\u1ECBt tam t\u1ECBnh nh\u1EE5c V\u1EADy tam t\u1ECBnh nh\u1EE5c l\xE0 g\xEC?"
+  answerA: "Th\u1ECBt con th\xFA t\u1EF1 ch\u1EBFt   \tTh\u1ECBt ng\u01B0\u1EDDi
+    kh\xE1c \u0103n c\xF2n d\u01B0,   \tTh\u1ECBt con th\xFA kh\xE1c \u0103n c\xF2n
+    d\u01B0"
+  answerB: "Th\u1ECBt m\xE0 kh\xF4ng th\u1EA5y con v\u1EADt b\u1ECB gi\u1EBFt  \tTh\u1ECBt
+    m\xE0 kh\xF4ng nghe ti\u1EBFng c\u1EE7a con v\u1EADt b\u1ECB gi\u1EBFt,kh\xF4ng
+    nghe ng\u01B0\u1EDDi kh\xE1c    n\xF3i v\u1EC1 m\xF3n \u0111\xF3 l\xE0 do gi\u1EBFt
+    h\u1EA1i \u0111\u1EC3 m\xECnh \u0111\u01B0\u1EE3c \u0103n   \tTh\u1ECBt m\xE0
+    kh\xF4ng nghi ng\u01B0\u1EDDi ta gi\u1EBFt cho m\xECnh \u0103n"
+  answerC: "Th\u1ECBt ng\u01B0\u1EDDi kh\xE1c cho  \tTh\u1ECBt ng\u01B0\u1EDDi kh\xE1c
+    gi\u1EBFt  \tTh\u1ECBt ng\u01B0\u1EDDi kh\xE1c mua cho m\xECnh"
+  answerD: "Th\u1ECBt m\xE0 ng\u01B0\u1EDDi kh\xE1c gi\u1EBFt \u0111\xE3i m\xECnh 
+    \tTh\u1ECBt m\xE0 ng\u01B0\u1EDDi kh\xE1c mua \u0111\xE3i m\xECnh  \tTh\u1ECBt
+    m\xE0 ng\u01B0\u1EDDi kh\xE1c n\u1EA5u cho m\xECnh"
+  answer: 1

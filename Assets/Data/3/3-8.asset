@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e1efd80ba962594183daf3532f90b57, type: 3}
+  m_Name: 3-8
+  m_EditorClassIdentifier: 
+  question: "N\u1EBFu ch\xFAng ta c\xF3 ph\xFAc duy\xEAn \u0103n chay d\u1EC5 d\xE0ng
+    th\xEC kh\xF4ng n\xEAn c\xF3 th\xE1i \u0111\u1ED9 n\xE0o \u0111\u1EC3 tr\xE1nh
+    sinh \xE1c c\u1EA3m v\u1EDBi nh\u1EEFng ng\u01B0\u1EDDi kh\xE1c m\xE0 c\xF2n
+    t\u1ED5n h\u1EA1i \xE2m \u0111\u1EE9c?"
+  answerA: "Kh\xF4ng n\xEAn cho m\xECnh l\xE0 h\u01A1n ng\u01B0\u1EDDi"
+  answerB: "Kh\xF4ng n\xEAn khinh ng\u01B0\u1EDDi ch\u01B0a \u0103n chay \u0111\u01B0\u1EE3c"
+  answerC: "Kh\xF4ng n\xEAn \xE9p x\xE1c"
+  answerD: A&B
+  answer: 3
