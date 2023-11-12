@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e1efd80ba962594183daf3532f90b57, type: 3}
+  m_Name: 5-1
+  m_EditorClassIdentifier: 
+  question: "Vu Lan B\u1ED3n l\xE0 phi\xEAn \xE2m theo ti\u1EBFng Ph\u1EA1n, Trung
+    Hoa d\u1ECBch l\xE0 \u201CGi\u1EA3i \u0111\u1EA3o huy\u1EC1n\u201D c\xF3 ngh\u0129a
+    l\xE0 g\xEC?"
+  answerA: "Hi\u1EBFu th\u1EA3o v\u1EDBi cha m\u1EB9"
+  answerB: "C\u1EE9u v\u1EDBt nh\u1EEFng k\u1EBB \u0111au kh\u1ED5, t\u1ED9i l\u1ED7i
+    n\u1EB7ng n\u1EC1"
+  answerC: "X\xE1 t\u1ED9i vong nh\xE2n"
+  answerD: "Hi\u1EBFu th\u1EA3o v\u1EDBi \xF4ng b\xE0, cha m\u1EB9"
+  answer: 1

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e1efd80ba962594183daf3532f90b57, type: 3}
+  m_Name: 5-5
+  m_EditorClassIdentifier: 
+  question: "Ng\xE0i M\u1EE5c Ki\u1EC1n Li\xEAn \u0111\xE3 ch\u1EE9ng l\u1EE5c th\xF4ng,
+    sao kh\xF4ng t\u1EF1 c\u1EE9u m\u1EB9, m\xE0 ph\u1EA3i nh\u1EDD s\u1EE9c ch\xFA
+    nguy\u1EC7n c\u1EE7a ch\u01B0 T\u0103ng?"
+  answerA: "Do th\u1EA7n th\xF4ng b\u1EA5t l\u1EF1c tr\u01B0\u1EDBc qu\u1EA3 x\u1EA5u
+    qu\xE1 n\u1EB7ng."
+  answerB: "S\u1EE9c ch\xFA nguy\u1EC7n v\xE0 chuy\u1EC3n ho\xE1 nghi\u1EC7p c\u1EE7a
+    ch\u01B0 T\u0103ng m\u1EA1nh h\u01A1n th\u1EA7n th\xF4ng."
+  answerC: "Nh\u1EDD s\u1EE9c chuy\u1EC3n ho\xE1 c\u1EE7a ch\u01B0 T\u0103ng, b\xE0
+    Thanh \u0110\u1EC1 sanh t\xE2m h\u1ED1i h\u1EADn n\xEAn \u0111\u01B0\u1EE3c gi\u1EA3i
+    tho\xE1t. "
+  answerD: "Nh\u1EDD s\u1EE9c chuy\u1EC3n ho\xE1 c\u1EE7a ch\u01B0 T\u0103ng, b\xE0
+    Thanh \u0110\u1EC1 x\u1EA3 b\u1ECF l\xF2ng b\u1ECFn x\u1EBBn n\xEAn \u0111\u01B0\u1EE3c
+    gi\u1EA3i tho\xE1t. "
+  answer: 3

@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
+using System.Linq;
 
 public class LevelHandler : MonoBehaviour
 {
@@ -15,16 +16,23 @@ public class LevelHandler : MonoBehaviour
     public TabGroup tabGroup;
 
     public GameObject losePanel;
-    public GameObject audio;
+    public GameObject bgAudio;
 
     public GameObject heart1;
     public GameObject heart2;
     public GameObject heart3;
 
+    public GameObject homeAudio;
+    public GameObject menuUI;
+
     private void Start()
     {
         if (!tabGroup)
             tabGroup = GameObject.Find("TabGroup").GetComponent<TabGroup>();
+        if (!homeAudio)
+            homeAudio = GameObject.Find("HomeAudio");
+        if (!menuUI)
+            menuUI = GameObject.Find("MenuUI");
     }
 
     public void NextStage()
@@ -41,6 +49,12 @@ public class LevelHandler : MonoBehaviour
     public void DestroyLevel()
     {
         Destroy(transform.gameObject);
+
+        AudioSource audio = homeAudio.GetComponent<AudioSource>();
+        audio.enabled = true;
+
+        Victory();
+
     }
 
     public void Replay()
@@ -80,7 +94,7 @@ public class LevelHandler : MonoBehaviour
                 break;
             case 0:
                 heart1.SetActive(false);
-                audio.SetActive(false);
+                bgAudio.SetActive(false);
                 losePanel.SetActive(true);
                 break;
         }
@@ -96,6 +110,20 @@ public class LevelHandler : MonoBehaviour
         ChangeCard changeCard = tabBtn.GetComponent<ChangeCard>();
              
         changeCard.Carding(GameSystem.Level[TabGroup.levelIndex]);
+
+    }
+
+    public void Victory()
+    {
+        if (GameSystem.Level.All(x => x))
+        {
+            if (GameSystem.victory == false)
+            {
+                GameSystem.victory = true;
+                menuUI.SetActive(false);
+            }
+
+        }
         
 
     }

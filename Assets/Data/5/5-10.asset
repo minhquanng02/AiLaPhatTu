@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e1efd80ba962594183daf3532f90b57, type: 3}
+  m_Name: 5-10
+  m_EditorClassIdentifier: 
+  question: "Em B\xE9 r\u1EA5t th\u01B0\u01A1ng cha,m\u1EB9 tuy c\xF2n nh\u1ECF nh\u01B0ng
+    em r\u1EA5t mu\u1ED1n b\xE1o hi\u1EBFu cho cha m\u1EB9.Chi\u1EC1u chi\u1EC1u
+    cha em th\u01B0\u1EDDng nh\u1EDD em \u0111i mua n\u1EEDa l\xEDt r\u01B0\u1EE3u.Th\u01B0\u01A1ng
+    cha n\xEAn em \u0111\u1EC3 d\xE0nh ti\u1EC1n \u0103n v\u1EB7t mua th\xEAm cho
+    \u0111\u1EE7 1 l\xEDt. Em th\u1EA5y m\xECnh r\u1EA5t th\u01B0\u01A1ng cha.V\u1EADy
+    theo anh ch\u1ECB nh\u01B0 v\u1EADy l\xE0 Em B\xE9 \u0111\xE3 b\xE1o hi\u1EBFu
+    \u0111\xFAng ph\xE1p ch\u01B0a nh\u1EC9? "
+  answerA: "Ho\xE0n to\xE0n \u0111\xFAng ph\xE1p"
+  answerB: "Ch\u01B0a \u0111\xFAng.Em ph\u1EA3i mua 2 l\xEDt m\u1EDBi \u0111\xFAng "
+  answerC: "Nh\u1ECBn \u0103n mua r\u01B0\u1EE3u cho cha l\xE0 \u0111\xFAng ph\xE1p "
+  answerD: "B\xE1o hi\u1EBFu nh\u01B0 v\u1EADy l\xE0 ch\u01B0a \u0111\xFAng ph\xE1p"
+  answer: 3

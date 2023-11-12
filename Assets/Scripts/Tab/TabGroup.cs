@@ -11,6 +11,8 @@ public class TabGroup : MonoBehaviour
 
     public static int levelIndex;
 
+    public GameObject homeAudio;
+
     public void Subscribe(TabButton button)
     {
         if (tabButtons == null)
@@ -30,6 +32,12 @@ public class TabGroup : MonoBehaviour
     public virtual void OnTabSelected(TabButton button)
     {
         selectedTab = button;
+
+        if (homeAudio != null)
+        {
+            AudioSource audio = homeAudio.GetComponent<AudioSource>();
+            audio.enabled = false;
+        }
 
         int index = button.transform.GetSiblingIndex();
         for (int i = 0; i < objectToSwap.Count; i++)
