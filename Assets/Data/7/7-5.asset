@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e1efd80ba962594183daf3532f90b57, type: 3}
+  m_Name: 7-5
+  m_EditorClassIdentifier: 
+  question: "H\u1EA1nh \u201Cthi\u1EC3u d\u1EE5c tri t\xFAc\u201D \u0111\u1ED1i tr\u1ECB
+    t\xE2m g\xEC? "
+  answerA: "T\xE2m s\xE2n h\u1EADn."
+  answerB: "T\xE2m si m\xEA."
+  answerC: "T\xE2m tham. "
+  answerD: "T\xE2m ganh t\u1EF5 "
+  answer: 2

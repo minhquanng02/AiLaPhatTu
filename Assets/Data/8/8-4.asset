@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e1efd80ba962594183daf3532f90b57, type: 3}
+  m_Name: 8-4
+  m_EditorClassIdentifier: 
+  question: "Theo s\xE1ch Ph\u1EADt h\u1ECDc ph\u1ED5 th\xF4ng ,n\xF3i \u201CM\u1ED9t
+    nh\xE2n kh\xF4ng th\u1EC3 sinh qu\u1EA3\u201D ngh\u0129a l\xE0 g\xEC? "
+  answerA: "M\u1ED9t nh\xE2n kh\xF4ng th\u1EC3 th\xE0nh qu\u1EA3 n\u1EBFu kh\xF4ng
+    c\xF3 s\u1EF1 t\u01B0\u01A1ng t\xE1c c\u1EE7a nh\u1EEFng nh\xE2n kh\xE1c l\xE0m
+    duy\xEAn. "
+  answerB: "M\u1ED9t nh\xE2n th\xEC qu\xE1 \xEDt n\xEAn kh\xF4ng th\xE0nh k\u1EBFt
+    qu\u1EA3"
+  answerC: "M\u1ED9t nh\xE2n th\xEC kh\xF4ng th\u1EC3 t\u1ED3n t\u1EA1i \u0111\u01B0\u1EE3c. "
+  answerD: "Kh\xF4ng c\xF3 ai l\xE0 ng\u01B0\u1EDDi sinh ra v\u1EA1n v\u1EADt. "
+  answer: 0

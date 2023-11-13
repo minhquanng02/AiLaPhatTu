@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e1efd80ba962594183daf3532f90b57, type: 3}
+  m_Name: 9-9
+  m_EditorClassIdentifier: 
+  question: "Theo Ph\u1EADt h\u1ECDc ph\u1ED5 th\xF4ng,tho\xE1t ra ngo\xE0i c\u1EA3nh
+    gi\u1EDBi sinh t\u1EED lu\xE2n h\u1ED3i s\u1EBD \u0111\u1EBFn b\u1ED1n c\xF5i
+    th\xE1nh, \u0111\xF3 l\xE0 b\u1ED1n c\xF5i n\xE0o? "
+  answerA: "Thanh v\u0103n,Duy\xEAn gi\xE1c, B\u1ED3 T\xE1t,Ph\u1EADt"
+  answerB: "T\u1EE9 gia h\u1EA1nh,Thanh v\u0103n,Duy\xEAn gi\xE1c,B\u1ED3 T\xE1t "
+  answerC: "Ph\u1EADt,A -la-h\xE1n, T\u1EE9 gia h\u1EA1nh,B\u1ED3 T\xE1t "
+  answerD: "Ph\u1EADt,A-la-h\xE1n,T\u1EE9 gia h\u1EA1nh,Thanh v\u0103n "
+  answer: 0

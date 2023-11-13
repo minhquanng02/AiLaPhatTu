@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e1efd80ba962594183daf3532f90b57, type: 3}
+  m_Name: 9-2
+  m_EditorClassIdentifier: 
+  question: "Theo gi\xE1o l\xFD \u0111\u1EA1o Ph\u1EADt, sau khi ch\u1EBFt con ng\u01B0\u1EDDi
+    s\u1EBD ra sao? "
+  answerA: "Ch\u1EBFt r\u1ED3i m\u1EA5t h\u1EB3n."
+  answerB: "Ch\u1EBFt r\u1ED3i v\u1EABn t\xE1i sinh l\xE0m ng\u01B0\u1EDDi, kh\xF4ng
+    th\u1EC3 sinh l\xE0m th\xFA v\u1EADt. "
+  answerC: "T\xF9y nghi\u1EC7p \u0111\xE3 t\u1EA1o m\xE0 t\xE1i sinh l\xE0m ng\u01B0\u1EDDi
+    ho\u1EB7c sinh v\xE0o c\xE1c c\xF5i kh\xE1c."
+  answerD: "Ch\u1EDD th\u01B0\u1EE3ng \u0111\u1EBF ph\xE1n quy\u1EBFt"
+  answer: 2

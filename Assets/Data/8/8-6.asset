@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e1efd80ba962594183daf3532f90b57, type: 3}
+  m_Name: 8-6
+  m_EditorClassIdentifier: 
+  question: "S\u1EF1 ph\xE1t tri\u1EC3n nhanh v\xE0 ch\u1EADm t\u1EEB nh\xE2n \u0111\u1EBFn
+    qu\u1EA3 l\xE0 nh\u01B0 th\u1EBF n\xE0o? "
+  answerA: "c\xF3 nh\u1EEFng nh\xE2n v\xE0 qu\u1EA3 n\u1ED1i ti\u1EBFp nhau"
+  answerB: "c\xF3 nh\u1EEFng nh\xE2n \u0111\xE3 g\xE2y r\u1ED3i nh\u01B0ng ph\u1EA3i
+    m\u1ED9t th\u1EDDi gian ( v\xE0i n\u0103m, v\xE0i ch\u1EE5c n\u0103m, v\xE0i
+    ki\u1EBFp\u2026)\u0111\u1EE7 duy\xEAn m\u1EDBi h\xECnh th\xE0nh "
+  answerC: "T\u1EEB nh\xE2n \u0111\u1EBFn qu\u1EA3 nhanh hay ch\u1EADm l\xE0 do m\xECnh
+    l\xE0m ch\u1EE7 "
+  answerD: a & b
+  answer: 3

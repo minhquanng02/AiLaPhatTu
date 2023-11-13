@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e1efd80ba962594183daf3532f90b57, type: 3}
+  m_Name: 7-1
+  m_EditorClassIdentifier: 
+  question: "Thi\u1EC3u d\u1EE5c & tri t\xFAc ngh\u0129a l\xE0 g\xEC?"
+  answerA: "\xCDt ham mu\u1ED1n"
+  answerB: "Kh\xF4ng ham mu\u1ED1n"
+  answerC: "Kh\xF4ng bi\u1EBFt \u0111\u1EE7"
+  answerD: "\xCDt mu\u1ED1n v\xE0 bi\u1EBFt \u0111\u1EE7"
+  answer: 3

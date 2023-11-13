@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e1efd80ba962594183daf3532f90b57, type: 3}
+  m_Name: 9-1
+  m_EditorClassIdentifier: 
+  question: "Lu\xE2n h\u1ED3i trong Ph\u1EADt gi\xE1o l\xE0 g\xEC?"
+  answerA: "L\xE0 b\xE1nh xe."
+  answerB: "L\xE0 xoay tr\xF2n. "
+  answerC: "Qua l\u1EA1i, lu\xE2n chuy\u1EC3n trong l\u1EE5c \u0111\u1EA1o. "
+  answerD: "L\xE0 xoay chuy\u1EC3n"
+  answer: 2
