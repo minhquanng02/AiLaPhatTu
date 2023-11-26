@@ -16514,12 +16514,14 @@ MonoBehaviour:
   - {fileID: 5240196129269964126}
   stageText: {fileID: 508956037622745018}
   tabGroup: {fileID: 0}
+  cloudSave: {fileID: 0}
   losePanel: {fileID: 9068377127284279709}
-  bgAudio: {fileID: 0}
+  bgAudio: {fileID: 305903508011133225}
   heart1: {fileID: 1921168930347549639}
   heart2: {fileID: 7019997389986876937}
   heart3: {fileID: 3270007197511240995}
   homeAudio: {fileID: 0}
+  menuUI: {fileID: 0}
 --- !u!1 &5653965487541325838
 GameObject:
   m_ObjectHideFlags: 0

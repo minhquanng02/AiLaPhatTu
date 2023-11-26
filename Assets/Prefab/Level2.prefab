@@ -477,6 +477,7 @@ MonoBehaviour:
   - {fileID: 2888386446829441609}
   - {fileID: 1546841932677855527}
   spawnParent: {fileID: 0}
+  homeAudio: {fileID: 0}
   quiz: {fileID: 11400000, guid: 47d807455450241419ce5ee2c24da6f2, type: 2}
   nextButton: {fileID: 1625955912021509291}
   panel: {fileID: 3215962553318555199}
@@ -5692,6 +5693,7 @@ MonoBehaviour:
   - {fileID: 2789663430369590887}
   - {fileID: 6738322913664695877}
   spawnParent: {fileID: 0}
+  homeAudio: {fileID: 0}
   quiz: {fileID: 11400000, guid: 0a07a97b715b16a40b54b5f4b715912f, type: 2}
   nextButton: {fileID: 3544237047001178977}
   panel: {fileID: 6811828877585761068}
@@ -7119,6 +7121,7 @@ MonoBehaviour:
   - {fileID: 4139831877723216980}
   - {fileID: 7880202485196602356}
   spawnParent: {fileID: 0}
+  homeAudio: {fileID: 0}
   quiz: {fileID: 11400000, guid: 0ae160a0703af754fb45e81b77e88a61, type: 2}
   nextButton: {fileID: 621304933837112318}
   panel: {fileID: 2244522362791871955}
@@ -10646,6 +10649,7 @@ MonoBehaviour:
   - {fileID: 1339035513943699320}
   - {fileID: 8835226486672300005}
   spawnParent: {fileID: 0}
+  homeAudio: {fileID: 0}
   quiz: {fileID: 11400000, guid: 19c4e59229c261c4b872192924a43ed7, type: 2}
   nextButton: {fileID: 1984007602023920923}
   panel: {fileID: 487019229790993406}
@@ -13760,6 +13764,7 @@ MonoBehaviour:
   - {fileID: 5943052222791750915}
   - {fileID: 4695258019358738321}
   spawnParent: {fileID: 0}
+  homeAudio: {fileID: 0}
   quiz: {fileID: 11400000, guid: 3e74916dcf9827549b6c134a368562db, type: 2}
   nextButton: {fileID: 6175112438232745424}
   panel: {fileID: 1096782439073801311}
@@ -16509,11 +16514,14 @@ MonoBehaviour:
   - {fileID: 5240196129269964126}
   stageText: {fileID: 508956037622745018}
   tabGroup: {fileID: 0}
+  cloudSave: {fileID: 0}
   losePanel: {fileID: 9068377127284279709}
-  audio: {fileID: 305903508011133225}
+  bgAudio: {fileID: 305903508011133225}
   heart1: {fileID: 1921168930347549639}
   heart2: {fileID: 7019997389986876937}
   heart3: {fileID: 3270007197511240995}
+  homeAudio: {fileID: 0}
+  menuUI: {fileID: 0}
 --- !u!1 &5653965487541325838
 GameObject:
   m_ObjectHideFlags: 0
@@ -20030,6 +20038,7 @@ MonoBehaviour:
   - {fileID: 4502233047780553362}
   - {fileID: 6518785748897190259}
   spawnParent: {fileID: 0}
+  homeAudio: {fileID: 0}
   quiz: {fileID: 11400000, guid: b8951caab787e8445b1465c44a33b831, type: 2}
   nextButton: {fileID: 5713134469168702350}
   panel: {fileID: 401869574900020284}
@@ -20093,6 +20102,7 @@ MonoBehaviour:
   - {fileID: 5725473331941858291}
   - {fileID: 700131950898611889}
   spawnParent: {fileID: 0}
+  homeAudio: {fileID: 0}
   quiz: {fileID: 11400000, guid: 82ea0e9722b1914498ef24cb464602dc, type: 2}
   nextButton: {fileID: 8228810011942492695}
   panel: {fileID: 7964197839424982955}
@@ -21067,6 +21077,7 @@ MonoBehaviour:
   - {fileID: 5681119384887765837}
   - {fileID: 7835845229465102144}
   spawnParent: {fileID: 0}
+  homeAudio: {fileID: 0}
   quiz: {fileID: 11400000, guid: f44d74d81b983154e98f510347d031d9, type: 2}
   nextButton: {fileID: 672411375828386899}
   panel: {fileID: 54143330880085404}
@@ -24027,6 +24038,7 @@ MonoBehaviour:
   - {fileID: 663860774397499595}
   - {fileID: 1734172820835207378}
   spawnParent: {fileID: 0}
+  homeAudio: {fileID: 0}
   quiz: {fileID: 11400000, guid: 3814045891cd56f4e977ab545e3ddcf4, type: 2}
   nextButton: {fileID: 245568406531483043}
   panel: {fileID: 484637087642040675}
@@ -24877,6 +24889,7 @@ MonoBehaviour:
   - {fileID: 3720548485785236624}
   - {fileID: 5965200510706123827}
   spawnParent: {fileID: 0}
+  homeAudio: {fileID: 0}
   quiz: {fileID: 11400000, guid: a4d552313fc6681439f24c8f17835d09, type: 2}
   nextButton: {fileID: 2883494960156476334}
   panel: {fileID: 9169747921914182383}

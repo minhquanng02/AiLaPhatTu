@@ -14,6 +14,7 @@ public class LevelHandler : MonoBehaviour
     public TextMeshProUGUI stageText;
 
     public TabGroup tabGroup;
+    public CloudSave cloudSave;
 
     public GameObject losePanel;
     public GameObject bgAudio;
@@ -33,6 +34,8 @@ public class LevelHandler : MonoBehaviour
             homeAudio = GameObject.Find("HomeAudio");
         if (!menuUI)
             menuUI = GameObject.Find("MenuUI");
+        if (!cloudSave)
+            cloudSave = GameObject.Find("CloudSave").GetComponent<CloudSave>();
     }
 
     public void NextStage()
@@ -110,6 +113,8 @@ public class LevelHandler : MonoBehaviour
         ChangeCard changeCard = tabBtn.GetComponent<ChangeCard>();
              
         changeCard.Carding(GameSystem.Level[TabGroup.levelIndex]);
+
+        cloudSave.SaveData(TabGroup.levelIndex);
 
     }
 
