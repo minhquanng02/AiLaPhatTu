@@ -37,7 +37,7 @@ public class LoadBanner : MonoBehaviour
     }
     void OnBannerLoaded()
     {
-        print("Banner Loaded!!");
+        //print("Banner Loaded!!");
         showBannerAd();
     }
     void OnBannerLoadError(string error)

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e1efd80ba962594183daf3532f90b57, type: 3}
+  m_Name: 11-1
+  m_EditorClassIdentifier: 
+  question: "T\u1EE9 Nhi\u1EBFp Ph\xE1p l\xE0 g\xEC?"
+  answerA: "L\xE0 b\u1ED1n ph\u01B0\u01A1ng ph\xE1p l\u1EE3i m\xECnh, l\u1EE3i ng\u01B0\u1EDDi "
+  answerB: "L\xE0 b\u1ED1n ph\u01B0\u01A1ng ph\xE1p nhi\u1EBFp t\xE2m "
+  answerC: "L\xE0 b\u1ED1n ph\u01B0\u01A1ng ph\xE1p uy hi\u1EBFp,\u0111e d\u1ECDa,
+    b\u1EAFt bu\u1ED9c ch\xFAng sinh theo \u0111\u1EA1o Ph\u1EADt "
+  answerD: "L\xE0 b\u1ED1n ph\u01B0\u01A1ng ph\xE1p l\u1EE3i tha \u0111\u1EC3 nhi\u1EBFp
+    ph\u1EE5c ch\xFAng sinh quay v\u1EC1 v\u1EDBi Ph\u1EADt ph\xE1p "
+  answer: 3

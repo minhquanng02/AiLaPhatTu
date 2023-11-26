@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e1efd80ba962594183daf3532f90b57, type: 3}
+  m_Name: 10-8
+  m_EditorClassIdentifier: 
+  question: "T\u1EA1i sao ph\u1EA3i th\u1EF1c h\xE0nh kh\xF4ng gian tham tr\u1ED9m
+    c\u1EAFp? "
+  answerA: "V\xEC kh\xF4ng \u0111\xE0nh l\xF2ng nh\xECn ng\u01B0\u1EDDi m\u1EA5t
+    c\u1EE7a \u0111au kh\u1ED5. "
+  answerB: "V\xEC c\u1EE7a phi ngh\u0129a th\u01B0\u1EDDng v\xE0o c\u1EEDa tr\u01B0\u1EDBc,
+    ra c\u1EEDa sau. "
+  answerC: "V\xEC gi\u1EEF t\xE2m \u0111\u01B0\u1EE3c an \u1ED5n,kh\xF4ng ph\u1EA3i
+    s\u1ED1ng trong lo l\u1EAFng b\u1ECB ph\xE1t hi\u1EC7n. "
+  answerD: "T\u1EA5t c\u1EA3 \xFD tr\xEAn "
+  answer: 3

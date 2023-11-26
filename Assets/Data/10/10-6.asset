@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e1efd80ba962594183daf3532f90b57, type: 3}
+  m_Name: 10-6
+  m_EditorClassIdentifier: 
+  question: "Theo Ph\u1EADt h\u1ECDc ph\u1ED5 th\xF4ng n\u1EBFu mu\u1ED1n \u0111\u01B0\u1EE3c
+    qu\u1EA3 l\xE0m ng\u01B0\u1EDDi th\xEC ph\u1EA3i gieo nh\xE2n l\xE0m ng\u01B0\u1EDDi
+    (gi\u1EEF ng\u0169 gi\u1EDBi). Ti\u1EBFn xa h\u01A1n n\u1EEFa l\xE0 tu Th\u1EADp
+    Thi\u1EC7n Nghi\u1EC7p l\xE0 \u0111ang gieo nh\xE2n \u0111\u1EC3 t\xE1i sinh
+    v\xE0o c\xF5i n\xE0o?  "
+  answerA: "C\xF5i Atula"
+  answerB: "C\xF5i thi\xEAn \u0111\xE0ng "
+  answerC: "C\xF5i tr\u1EDDi D\u1EE5c Gi\u1EDBi "
+  answerD: "\u0110\u01B0\u1EE3c ch\u1ECDn 1 trong 3 c\xF5i tr\xEAn "
+  answer: 2

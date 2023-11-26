@@ -37,7 +37,7 @@ public class InitializeAds : MonoBehaviour, IUnityAdsInitializationListener
 
     public void OnInitializationComplete()
     {
-        print("Ads initialized!!");
+        //print("Ads initialized!!");
     }
 
     public void OnInitializationFailed(UnityAdsInitializationError error, string message)

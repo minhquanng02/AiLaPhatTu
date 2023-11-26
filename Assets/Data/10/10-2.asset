@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e1efd80ba962594183daf3532f90b57, type: 3}
+  m_Name: 10-2
+  m_EditorClassIdentifier: 
+  question: "Nghi\u1EC7p c\xF3 th\u1EC3 chia ra ba t\xEDnh c\xE1ch \u0111\xF3 l\xE0? "
+  answerA: "Nghi\u1EC7p l\xE0nh, nghi\u1EC7p d\u1EEF, nghi\u1EC7p kh\xF4ng l\xE0nh
+    kh\xF4ng d\u1EEF "
+  answerB: "Nghi\u1EC7p \xE1c, nghi\u1EC7p b\u1EA5t thi\u1EC7n,nghi\u1EC7p x\u1EA5u"
+  answerC: "Nghi\u1EC7p l\xE0nh, nghi\u1EC7p thi\u1EC7n, nghi\u1EC7p t\u1ED1t"
+  answerD: "Nghi\u1EC7p v\xF4 k\xFD, nghi\u1EC7p kh\xF4ng l\xE0nh kh\xF4ng gi\u1EEF,
+    nghi\u1EC7p d\u1EEF "
+  answer: 0
