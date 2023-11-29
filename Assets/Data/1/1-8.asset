@@ -15,17 +15,17 @@ MonoBehaviour:
   question: "\u0110\u1EC3 c\u1EA5u th\xE0nh ph\u1EA1m gi\u1EDBi s\xE1t sanh c\u1EA7n
     m\u1EA5y y\u1EBFu t\u1ED1 ( chi ph\u1EA7n ) \u0111\xF3 l\xE0 nh\u1EEFng y\u1EBFu
     t\u1ED1 n\xE0o?"
-  answerA: "5 chi ph\u1EA7n :    \t1 Ch\xFAng sanh c\xF3 th\u1EE9c t\xE1nh  \t2 Bi\u1EBFt
-    r\xF5 ch\xFAng sanh c\xF3 th\u1EE9c t\xE1nh   \t3 C\xF3 \xFD mu\u1ED1n gi\u1EBFt 
-    \t4 C\u1ED1 g\u1EAFng gi\u1EBFt  \t5 Ch\xFAng sanh ch\u1EBFt v\xEC s\u1EF1 c\u1ED1
-    g\u1EAFng gi\u1EBFt \u0111\xF3    "
-  answerB: "5 chi ph\u1EA7n :    \t1 Ch\xFAng sanh v\xF4 t\xECnh  \t2 Bi\u1EBFt r\xF5
-    ch\xFAng sanh c\xF3 th\u1EE9c t\xE1nh   \t3 C\xF3 \xFD mu\u1ED1n gi\u1EBFt  \t4
-    C\u1ED1 g\u1EAFng gi\u1EBFt  \t5 Ch\xFAng sanh ch\u1EBFt v\xEC s\u1EF1 c\u1ED1
-    g\u1EAFng gi\u1EBFt \u0111\xF3  "
-  answerC: "4 chi ph\u1EA7n :    \t1 Ch\xFAng sanh c\xF3 th\u1EE9c t\xE1nh  \t2 Bi\u1EBFt
-    r\xF5 ch\xFAng sanh c\xF3 th\u1EE9c t\xE1nh   \t3 C\xF3 \xFD mu\u1ED1n gi\u1EBFt 
-    \t4 C\u1ED1 g\u1EAFng gi\u1EBFt "
-  answerD: "3 chi ph\u1EA7n :   \t1 C\xF3 \xFD mu\u1ED1n gi\u1EBFt  \t2 C\u1ED1 g\u1EAFng
-    gi\u1EBFt  \t3 Ch\xFAng sanh ch\u1EBFt "
+  answerA: "5 chi ph\u1EA7n:                1 Ch\xFAng sanh c\xF3 th\u1EE9c t\xE1nh                          
+    2 Bi\u1EBFt r\xF5 ch\xFAng sanh c\xF3 th\u1EE9c t\xE1nh               3 C\xF3
+    \xFD mu\u1ED1n gi\u1EBFt        4 C\u1ED1 g\u1EAFng gi\u1EBFt            5 Ch\xFAng
+    sanh ch\u1EBFt v\xEC s\u1EF1 c\u1ED1 g\u1EAFng gi\u1EBFt \u0111\xF3"
+  answerB: "5 chi ph\u1EA7n:               1 Ch\xFAng sanh v\xF4 t\xECnh 2 Bi\u1EBFt
+    r\xF5 ch\xFAng sanh c\xF3 th\u1EE9c t\xE1nh              3 C\xF3 \xFD mu\u1ED1n
+    gi\u1EBFt  \t  4 C\u1ED1 g\u1EAFng gi\u1EBFt  \t  5 Ch\xFAng sanh ch\u1EBFt v\xEC
+    s\u1EF1 c\u1ED1 g\u1EAFng gi\u1EBFt \u0111\xF3  "
+  answerC: "4 chi ph\u1EA7n:               1 Ch\xFAng sanh c\xF3 th\u1EE9c t\xE1nh                        
+    2 Bi\u1EBFt r\xF5 ch\xFAng sanh c\xF3 th\u1EE9c t\xE1nh             3 C\xF3 \xFD
+    mu\u1ED1n gi\u1EBFt      4 C\u1ED1 g\u1EAFng gi\u1EBFt "
+  answerD: "3 chi ph\u1EA7n:                1 C\xF3 \xFD mu\u1ED1n gi\u1EBFt       
+    2 C\u1ED1 g\u1EAFng gi\u1EBFt            3 Ch\xFAng sanh ch\u1EBFt "
   answer: 0

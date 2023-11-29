@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   question: "T\u1EA1i sao \u0111\u1EE9c Ph\u1EADt ch\u1ECDn ng\xE0y r\u1EB1m th\xE1ng
     b\u1EA3y (\xE2m l\u1ECBch) \u0111\u1EC3 thi\u1EBFt l\u1EC5 Vu Lan?"
-  answerA: "V\xEC \u0111\xF3 l\xE0 ng\xE0y c\xF4 h\u1ED3n, m\u1EDF c\u1EEDa ng\u1EE5"
+  answerA: "V\xEC \u0111\xF3 l\xE0 ng\xE0y c\xF4 h\u1ED3n, m\u1EDF c\u1EEDa ng\u1EE5c"
   answerB: "V\xEC \u0111\xF3 l\xE0 ng\xE0y ch\u01B0 T\u0103ng T\u1EF1 t\u1EE9 \u0111\xE1nh
     d\u1EA5u s\u1EF1 k\u1EBFt th\xFAc ba th\xE1ng an c\u01B0"
   answerC: "V\xEC \u0111\xF3 l\xE0 ng\xE0y ch\u01B0 Ph\u1EADt m\u01B0\u1EDDi ph\u01B0\u01A1ng

@@ -4493,8 +4493,8 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1011063841}
-  - component: {fileID: 1011063840}
-  - component: {fileID: 1011063839}
+  - component: {fileID: 1011063843}
+  - component: {fileID: 1011063842}
   m_Layer: 0
   m_Name: AdsManager
   m_TagString: Untagged
@@ -4502,35 +4502,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &1011063839
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1011063838}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: aa986bd3cff040c45b24cef7ae5cfe31, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  androidAdUnitId: Banner_Android
-  iosAdUnitId: Banner_IOS
---- !u!114 &1011063840
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1011063838}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0369ad5e2d2a95343af7151c7b5c6304, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  androidGameId: 5485055
-  iosGameId: 5485054
-  isTestingMode: 1
 --- !u!4 &1011063841
 Transform:
   m_ObjectHideFlags: 0
@@ -4546,6 +4517,35 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1011063842
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1011063838}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa986bd3cff040c45b24cef7ae5cfe31, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  androidAdUnitId: Banner_Android
+  iosAdUnitId: Banner_IOS
+--- !u!114 &1011063843
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1011063838}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0369ad5e2d2a95343af7151c7b5c6304, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  androidGameId: 5485055
+  iosGameId: 5485054
+  isTestingMode: 1
 --- !u!1 &1104970777
 GameObject:
   m_ObjectHideFlags: 0
@@ -7578,7 +7578,7 @@ MonoBehaviour:
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
   m_ReferenceResolution: {x: 800, y: 600}
-  m_ScreenMatchMode: 0
+  m_ScreenMatchMode: 1
   m_MatchWidthOrHeight: 0
   m_PhysicalUnit: 3
   m_FallbackScreenDPI: 96

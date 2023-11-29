@@ -19,12 +19,12 @@ MonoBehaviour:
     m\xF3n l\u1EADn, N\u0103m m\xF3n \u1EA5y g\u1ECDi l\xE0 n\u0103m m\xF3n di\u1EC7u
     h\u01B0\u01A1ng.Anh, ch\u1ECB c\xF3 bi\u1EBFt n\u0103m m\xF3n di\u1EC7u h\u01B0\u01A1ng
     \u1EA5y l\xE0 g\xEC h\xF4ng ?"
-  answerA: "T\xE0i h\u01B0\u01A1ng S\u1EAFc h\u01B0\u01A1ng Danh h\u01B0\u01A1ng
-    Th\u1EF1c h\u01B0\u01A1ng Th\xF9y h\u01B0\u01A1ng"
-  answerB: "Kh\xF4ng s\xE1t sinh Kh\xF4ng tr\u1ED9m c\u1EAFp Kh\xF4ng t\xE0 z\u0103m
-    Kh\xF4ng n\xF3i d\u1ED1i Kh\xF4ng u\u1ED1ng r\u01B0\u1EE3u"
-  answerC: "S\u1EAFc h\u01B0\u01A1ng Th\u1ECD h\u01B0\u01A1ng T\u01B0\u1EDFng h\u01B0\u01A1ng
-    H\xE0nh h\u01B0\u01A1ng Th\u1EE9c h\u01B0\u01A1ng"
-  answerD: "Gi\u1EDBi h\u01B0\u01A1ng \u0110\u1ECBnh h\u01B0\u01A1ng Hu\u1EC7 h\u01B0\u01A1ng
-    Gi\u1EA3i tho\xE1t h\u01B0\u01A1ng Gi\u1EA3i tho\xE1t tri ki\u1EBFn h\u01B0\u01A1ng"
+  answerA: "T\xE0i h\u01B0\u01A1ng, S\u1EAFc h\u01B0\u01A1ng, Danh h\u01B0\u01A1ng,
+    Th\u1EF1c h\u01B0\u01A1ng, Th\xF9y h\u01B0\u01A1ng"
+  answerB: "Kh\xF4ng s\xE1t sinh, Kh\xF4ng tr\u1ED9m c\u1EAFp, Kh\xF4ng t\xE0 z\u0103m
+    Kh\xF4ng n\xF3i d\u1ED1i, Kh\xF4ng u\u1ED1ng r\u01B0\u1EE3u"
+  answerC: "S\u1EAFc h\u01B0\u01A1ng, Th\u1ECD h\u01B0\u01A1ng, T\u01B0\u1EDFng h\u01B0\u01A1ng,
+    H\xE0nh h\u01B0\u01A1ng, Th\u1EE9c h\u01B0\u01A1ng"
+  answerD: "Gi\u1EDBi h\u01B0\u01A1ng, \u0110\u1ECBnh h\u01B0\u01A1ng, Hu\u1EC7 h\u01B0\u01A1ng,
+    Gi\u1EA3i tho\xE1t h\u01B0\u01A1ng, Gi\u1EA3i tho\xE1t tri ki\u1EBFn h\u01B0\u01A1ng"
   answer: 3
